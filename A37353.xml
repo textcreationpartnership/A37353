@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of an happy treatie for peace between the Kings Maiesty and the high court of Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37353</idno>
+            <idno type="STC">Wing D604B</idno>
+            <idno type="STC">ESTC R26115</idno>
+            <idno type="EEBO-CITATION">09362280</idno>
+            <idno type="OCLC">ocm 09362280</idno>
+            <idno type="VID">42836</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42836)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1307:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of an happy treatie for peace between the Kings Maiesty and the high court of Parliament</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb 11, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A pamphlet urging peace on Parliamentary terms.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42836:1"/>
+            <pb facs="tcp:42836:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF An happy TREATIE for PEACE, BETWEEN The Kings Maieſty, AND <hi>The High Court of</hi> PARLIAMENT.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON, Febr.</hi> 11. Printed for <hi>T. Wright.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:42836:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:42836:2"/>
+            <head>A DECLARATION OF An happy Treaty for peace, betweene THE <hi>KJNGS MAJESTY,</hi> AND The high Court of PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE bleeding miſery of our poor diſtreſſed brethren in <hi>Ireland,</hi> under the cruel rebellion of the Papiſts at this time, whereby that Kingdome is in danger to be loſt, requires rather aid to reſcue them from that thral<g ref="char:EOLhyphen"/>dome: then to involve <hi>England</hi> into the like miſery, and indeed who can be ignorant not only how juſt cauſe <hi>Scotland</hi> hath to ſuſpect the Papiſts here as well as we, but with us labour to root them out alſo, and what their intents are againſt <hi>England</hi> we may eaſily judge, not only by their cruelties in <hi>Ireland</hi> and forraign Kingdomes,
+<pb n="2" facs="tcp:42836:3"/>but by wofull too late experience in many places about this Kingdome, who do miſchiefe amongſt us, not by their own perſons only, but by traducing others <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o coagitate in their cruel and deſperate deſignes againſt the Land, Religi<g ref="char:EOLhyphen"/>on, King, Parliament, and even humanity, againſt whoſe practiſes there is ſo many wholſome Lawes.</p>
+            <p>Neither have they only made us miſerable, but an evill counſel that have laboured to breed and work in the Kings Majeſty a diſlike and diſaffection toward the Parliament and their proceedings, under which miſtake this Kingdom hath too long bleedingly groaned, by reaſon of a civill and unhappy warre: Inſomuch that although both the honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament have by all means ſought the peaceable returne of his Majeſty, yet they have bin ſtill prevented by ſuch who have prevailed in their Counſell a<g ref="char:EOLhyphen"/>gainſt them, which hath cauſed ſo long a hinderance of that happy accommodation which might otherwiſe have bin obteyned.</p>
+            <p>For this purpoſe they have often petitioned to his Maje<g ref="char:EOLhyphen"/>ſty, and in moſt humble manner deſired his peaceable re<g ref="char:EOLhyphen"/>turn to his Parliament, but were ſtill oppoſed by reaſon of the evil Counſell about him.</p>
+            <p>The Parliament having received now at laſt ſuch an An<g ref="char:EOLhyphen"/>ſwer as hath given them ſome hopes of accommodation; are no little glad therof, which they have entertained with ſuch joyful acceptance as they can expreſſe, and have ther<g ref="char:EOLhyphen"/>fore cheerfully treated concerning the ſame, deſiring no greater happineſſe then the perfecting thereof, not doubt<g ref="char:EOLhyphen"/>ing but that it will make way for the removing of all our grievances and ſupplying of all our wants, neither have they neglected the perfecting of their ſitting for a conveni<g ref="char:EOLhyphen"/>ent
+<pb n="3" facs="tcp:42836:3"/>and happy Treaty, who being all equall, willing and re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y in the accompliſhment thereof, have in a ſhort ſpace of time drawn up their reſolutions, and returned them to his Majeſty: God proſper the work, and give a bleſſing to it.</p>
+            <p>The Parliament being tender of the loſing of the lives of any of his Majeſties good ſubjects by war and bloud<g ref="char:EOLhyphen"/>ſhed, do in their wiſe judgments hold it better to draw up the period of all differences, and perfect a reconciliation with his Majeſty by a peaceable treaty, then by the ſword, or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingring Declarations and Meſſages, that ſo (if it be poſſible) a ſudden and happy accommodation may be ac<g ref="char:EOLhyphen"/>compliſhed, in which work they are, moſt earneſt and carefull.</p>
+            <p>Now ſeeing there is ſo much hopes of an accommoda<g ref="char:EOLhyphen"/>tion, it concerns the whole Kingdome, and every man in his particular ſtate, degree and calling, to be carefull not to hinder, but to help forward this great work, leſt by negli<g ref="char:EOLhyphen"/>gence they become guilty of innocent bloud.</p>
+            <p n="1">1 We ought to remember in the firſt place to give God thanks for theſe hopes, and this happy opportunity, for it is not man alone that doth it, all the wiſdome of man is but vaine, God directs and appoints what in his great wiſdome he will have come to paſſe, and he looks for the praiſes of his works, therefore let us not forget to praiſe God for the hope which he hath now given us of this great work; let us be often thinking and talking of it, ſay<g ref="char:EOLhyphen"/>ing, <hi>Bleſſed be the name of the Lord.</hi>
+            </p>
+            <p n="2">2 We muſt take heed of ſin, leaſt thereby the work be hindred: God grant that the pride of this land, the pro<g ref="char:EOLhyphen"/>faning of the name of God by bloody and fearfull oaths,
+<pb n="4" facs="tcp:42836:4"/>cozening, lying, Sabbath-breaking, &amp;c. do not hinder the accommodation; the deſtroying Angel ceaſed not until <hi>Phineas</hi> ſmote the adulterer and the adultereſſe; Gods wrath was not appeaſed till <hi>Achans</hi> theft was puniſhed; ſin brought the troubles that often fell upon <hi>Jeruſalem,</hi> and <hi>Jonahs</hi> ſin troubled the whole ſhip, which found no reſt til he returned. Thus doth it concern us all to leave our ſins, and turn to God by repentance, els may we ſtill ſaile in vi<g ref="char:EOLhyphen"/>olent winds and troubled waters.</p>
+            <p n="3">3 It concerns us alſo to take heed of truſting the Pa<g ref="char:EOLhyphen"/>piſts, they muſt be narrowly watched; for they are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter enemies to accommodation, they cannot indure unity be<g ref="char:EOLhyphen"/>tween the King and Parliament, they love to increaſe ci<g ref="char:EOLhyphen"/>vill warre in Proteſtant Kingdomes; for by continuance of war, 1. They gain advantage for the bringing in of forraigne power to ſubdue the Proteſtants. 2. They can better ſhew themſelves to one another. 3. They gaine better opportunity of working their treaſons and conſpi<g ref="char:EOLhyphen"/>racies at home. 4. They gather more to an head, &amp;c. all which being conſidered, we have great reaſon to take heed of truſting them or permitting them in any way to give opportunity of doing hurt to Proteſtants, or Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="4">4 Let us by no means croſſe or thwart the Parliaments deſignes, or be in any reſpect an hinderance to the ſame; we have choſen them to be the repreſentative Body of the Kingdome, to ſit there for us; and they have been found faithfull; they are there gathered together by the provi<g ref="char:EOLhyphen"/>dence of God, let us take heed of croſſing Gods way, leaſt inſtead of procuring a bleſſing, we bring a curſe up<g ref="char:EOLhyphen"/>on us.</p>
+            <pb n="5" facs="tcp:42836:4"/>
+            <p n="5">5 We muſt not be negligent to help them with mony; yea with our lives and all that we have (according to the Proteſtation) elſe we are not helpers but troublers of the Common-wealth, and indeed who of conſcience can deny to helpe them in ſo great a worke in which we are all ſo much intereſted.</p>
+            <p n="6">6 We muſt not be negligent in Prayer to almighty God to perfect it to his glory, the Kings honour, the flouriſhing of the Goſpel, and the good of the whole Land, have we not cauſe to pray? Surely there can no Kingdome in the world have more reaſon to implore Almighty God by humble ſupplication then we; whether we look upon the miſeries we are in by warre, or the bleſſings we may enjoy by peace. 1. The miſeries we are in by warre, in our own perſons by continuall danger to be ſlain and murthered, in our friends, to have our wives and daughters barbarouſly defloured, our childrens braines daſht in pieces againſt the ſtones, and famine the hand-maid of warre to devour both us and them; And in our eſtates to be plundred and pilla<g ref="char:EOLhyphen"/>ged, and robbed of all that we have: eſpecially having Armies of Papiſts raiſed againſt us. 2. The bleſſings that we may enjoy by peace are many, reparation of decayed trading, freedome from continuall feares and dangers, comfort in our callings, each man according to his degree, ſafety of our eſtate, comfort of our Church, propagation of the Goſpel, the honour of the King, and the comforta<g ref="char:EOLhyphen"/>ble enjoyment of ſuch bleſſings as God hath beſtowed upon us.</p>
+            <p>Now may we ſee how much a prudent Accommodation is better then by haſty peace on the Papiſts, and Malig<g ref="char:EOLhyphen"/>nants termes to betray our Religion and liberties, King,
+<pb n="6" facs="tcp:42836:5"/>Parliament and Lawes, for by the one we are happy, and have to do with a royal King and Soveraigne himſelfe, by the other Papiſts and evil Counſel might prove our ruine.</p>
+            <p>This is that way of peace which may make poor <hi>England</hi> more happy then ever: yea then all Nations (when our royal King ſhall ſit in his Princely throane with an Olive branch of peace, to the joy of all his Proteſtant ſubjects, who deſire rather to ſee him in his Parliament then at ſo great a diſtance from them, when the Parliament ſhal ſtand right in the eyes of his Majeſty, when Religion is ſetled, reformrtion of all things amiſſe wrought, and every one quietly fitting under his owne Vine, by a peaceable and happy ſettlement under his gracious Majeſty, which God of his good mercy and goodneſſe grant.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42836:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
